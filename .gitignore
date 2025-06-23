@@ -170,5 +170,4 @@ infra/environments/*/.terraform/*
 infra/environments/*/.terraform.lock.hcl
 infra/environments/*/tfplan
 
-# Resources
-resources/
+
