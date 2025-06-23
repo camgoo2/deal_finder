@@ -1,0 +1,14 @@
+Dockerfile
+README.md
+test_*.py
+authetication_token.py
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+.pytest_cache
+env
+.vscode
+.mypy_cache
+experiments
+.gitignore
